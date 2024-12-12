@@ -11,5 +11,13 @@ int main()
 {
  int a=10,b=20,c;
  c=a+b;
- printf("\nmultiplication of two numbers=%d",c);
+ printf("\nMultiplication of two numbers=%d",c);
 }
+#include<stdio.h>
+int main()
+{
+ int a=10,b=20,c;
+ c=a-b;
+ printf("\nSubtraction of two numbers=%d",c);
+}
+
